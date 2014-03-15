@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = ">= 1.3.6"
 
-  s.platform = "java"
+  s.platform = "ruby"
 
   s.add_dependency("mongoid", [">= 3.0.0"])
   s.add_dependency("jruby-stemmer", ["~> 0.0.1"])
